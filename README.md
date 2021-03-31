@@ -1,5 +1,5 @@
 # Learn-PyTorch
 
-Learn Machine Learning theory first.
+Learn Machine Learning first.
 Follow my footsteps to learn PyTorch.
 
